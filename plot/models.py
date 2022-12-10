@@ -3,8 +3,7 @@ from django.db import models
 # Create your models here.
 
 class Plot(models.Model): 
-    COUNRY_LIST_CHOICES = [
-        
+    COUNRY_LIST_CHOICES = [        
         ("Lamu", "Lamu"),
         ("Meru", "Meru"),
         ("Embu", "Embu"),

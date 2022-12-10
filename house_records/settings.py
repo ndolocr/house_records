@@ -42,6 +42,7 @@ INSTALLED_APPS = [
     'plot',
     'room',
     'house',
+    'Tenant',
 ]
 
 MIDDLEWARE = [

@@ -40,6 +40,7 @@ INSTALLED_APPS = [
 
     # Created apps
     'plot',
+    'room',
     'house',
 ]
 
